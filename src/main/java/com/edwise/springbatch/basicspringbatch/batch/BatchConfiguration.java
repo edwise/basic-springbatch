@@ -1,4 +1,4 @@
-package com.edwise.springbatch.basicspringbatch.model.batch;
+package com.edwise.springbatch.basicspringbatch.batch;
 
 import com.edwise.springbatch.basicspringbatch.model.Person;
 import org.springframework.batch.core.Job;
